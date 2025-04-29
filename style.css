@@ -1,0 +1,47 @@
+
+#photo5 , #photo6 , #photo7 , #photo4 , #photo3 , #photo2 ,#photo1, #photo8{
+    font-size: small;
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+
+
+#headerr {
+    font-size: 45px;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    text-align: center;
+
+    max-width: 100%;
+    height: auto;
+    
+}
+
+body {
+    background-color: #CBD4C2 ;
+    padding: 20px;
+    margin: 0;
+}
+
+div {
+    display: inline-block;
+    overflow: hidden;
+    margin: 20px;
+}
+
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+
+    height: 100px;
+    font-family: "Special Gothic Expanded One", sans-serif;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
